@@ -2,7 +2,7 @@
 
 - 🔭 Atualmente sou estudante de ADS.
 - 🎢 Estou focando meus estudos em Java.
-- 💻 Procuro ser um desenvolvedor backend.
+- 💻 Pretendo ser um desenvolvedor backend.
 - 📫 Contate-me no email: christianfernandesprofissional@gmail.com
 - 😄 Pronouns: ele/dele
 
