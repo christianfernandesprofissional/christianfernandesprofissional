@@ -6,10 +6,14 @@
 - 📫 Contate-me no email: christianfernandesprofissional@gmail.com
 - 😄 Pronouns: ele/dele
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=christianfernandesprofissional)](https://github.com/christianfernandesprofissional/github-readme-stats)
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=christianfernandesprofissional&show_icons=true&theme=dark)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=christianfernandesprofissional)](https://github.com/christianfernandesprofissional/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api?username=christianfernandesprofissional&show_icons=true&theme=dark)
+
+<a href="https://github.com/christianfernandesprofissional/github-readme-stats">
+  <img align="top"  src="https://github-readme-stats.vercel.app/api?username=christianfernandesprofissional&show_icons=true&theme=radical" />
+  <img align="top-center"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=christianfernandesprofissional&show_icons=true&theme=radical" />
+</a>
+
+
+
 <!--
 **christianfernandesprofissional/christianfernandesprofissional** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
