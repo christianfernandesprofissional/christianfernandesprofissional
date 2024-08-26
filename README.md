@@ -1,10 +1,9 @@
 ## Olá, prazer em conhece-lo, meu nome é Christian! 👋 
 
-- 🔭 Atualmente sou estudante de ADS.
-- 🎢 Estou focando meus estudos em Java.
-- 💻 Pretendo ser um desenvolvedor backend.
+- 🔭 Atualmente sou estudante de ADS
+- 🎢 Estou focando meus estudos em Java
+- 💻 Pretendo ser um desenvolvedor backend
 - 📫 Contate-me no email: christianfernandesprofissional@gmail.com
-- 😄 Pronouns: ele/dele
 
 
 <a href="https://github.com/christianfernandesprofissional/github-readme-stats">
