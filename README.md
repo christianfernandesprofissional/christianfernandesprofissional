@@ -11,6 +11,10 @@
 </a>
   <br>
 
+<h2>Github Stats :chart_with_upwards_trend:</h2>
+
+<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=christianfernandesprofissional&theme=onedark&row=1&no-bg=true&no-frame=true" alt="christianfernandesprofissional" /></a> </p>
+
  <h1>Stacks: </h1>
 
 <div style="display: inline_block"><br>
