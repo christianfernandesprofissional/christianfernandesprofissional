@@ -12,8 +12,6 @@
   <br>
 
  <h1>Stacks: </h1>
- 
-***
 
 <div style="display: inline_block"><br>
 
@@ -33,7 +31,6 @@
   
 </div>
 
-***
 <!--
 **christianfernandesprofissional/christianfernandesprofissional** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
