@@ -1,10 +1,9 @@
 ## Olá, prazer em conhece-lo, meu nome é Christian! 👋 
 
-- 🔭 Atualmente sou estudante de ADS
-- 🎢 Estou focando meus estudos em Java
-- 💻 Pretendo ser um desenvolvedor backend
+- 🔭 Atualmente sou estudante de ADS e estou no 5º semestre
+- 🎢 Sou estagiário DevOps na Compass UOL
+- 💻 Pretendo ser um desenvolvedor backend Java
 - 📫 Contate-me no email: christianfernandesprofissional@gmail.com
-
 
 <a href="https://github.com/christianfernandesprofissional/github-readme-stats">
   <img align="top"  src="https://github-readme-stats.vercel.app/api?username=christianfernandesprofissional&show_icons=true&theme=radical" />
@@ -21,13 +20,17 @@
 
   <img align="center" width="80px" height="80px" background-color="white" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original-wordmark.svg">
   <img align="center" width="80px" height="80px" background-color="white" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/spring/spring-original-wordmark.svg" />
+  <img align="center" alt="Chris-AWS" height="60" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/amazonwebservices/amazonwebservices-original-wordmark.svg">
+  <img align="center" alt="Chris-Docker" height="60" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original-wordmark.svg">
+  <img align="center" alt="Chris-kubernetes" height="60" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/kubernetes/kubernetes-original-wordmark.svg">
   <img align="center" width="80px" height="80px" background-color="white" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original-wordmark.svg" />
   <img align="center" width="80px" height="80px" background-color="white" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mongodb/mongodb-original-wordmark.svg" />
+  <img align="center" alt="Chris-linux" height="60" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linux/linux-original.svg">
   <img align="center" width="80px" height="80px" background-color="white" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tomcat/tomcat-original.svg" />
   <img align="center" alt="Chris-Javascript" width="60px" height="60px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg">
   <img align="center" alt="Chris-HTML" height="60" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Chris-CSS" height="60" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="Chris-C" height="60" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/c/c-original.svg">
+  
 </div>
 
 ***
