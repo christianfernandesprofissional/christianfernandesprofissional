@@ -7,10 +7,35 @@
 
 
 
-  
-  ![Meus status](https://github-readme-stats.vercel.app/api?username=christianfernandesprofissional&show_icons=true&theme=radical)
-  
-  ![Meus status](https://github-readme-stats.vercel.app/api/top-langs/?username=christianfernandesprofissional&show_icons=true&theme=radical)
+  ## GitHub Performance Metrics
+
+<div align="center">
+
+### Achievements & Milestones
+[![trophy](https://github-profile-trophy.vercel.app/?username=christianfernandesprofissional&theme=light&margin-w=4&row=1&column=9)](https://github.com/ryo-ma/github-profile-trophy)
+
+</div>
+
+
+<div align="center">
+
+
+<img width="65%" src="https://github-stats-mu-nine.vercel.app/api?username=christianfernandesprofissional&show=reviews,discussions_started,discussions_answered,prs_merged&show_icons=true&include_all_commits=true&bg_color=0D1117&theme=algolia&hide_border=true" alt="GitHub Stats"/>
+<img width="33%" 
+  src="https://github-stats-mu-nine.vercel.app/api/top-langs/?username=christianfernandesprofissional&theme=algolia&hide_border=true&layout=pie&langs_count=8&bg_color=0D1117" alt="Top Languages"/>
+
+
+</div>
+
+<div align="center">
+
+<img width="80%" src="https://stats.hyo.dev/api/github-stats-advanced?login=christianfernandesprofissional" alt="GitHub Streak"/>
+
+</div>
+
+
+
+
 
   <br>
 
