@@ -5,10 +5,13 @@
 - 💻 Pretendo ser um desenvolvedor backend Java
 - 📫 Contate-me no email: christianfernandesprofissional@gmail.com
 
-<a href="https://github.com/christianfernandesprofissional/github-readme-stats">
-  <img align="top"  src="https://github-readme-stats.vercel.app/api?username=christianfernandesprofissional&show_icons=true&theme=radical" />
-  <img align="top-center"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=christianfernandesprofissional&show_icons=true&theme=radical" />
-</a>
+
+
+  
+  ![Meus status](https://github-readme-stats.vercel.app/api?username=christianfernandesprofissional&show_icons=true&theme=radical)
+  
+  ![Meus status](https://github-readme-stats.vercel.app/api/top-langs/?username=christianfernandesprofissional&show_icons=true&theme=radical)
+
   <br>
 
 <h2>Github Stats :chart_with_upwards_trend:</h2>
