@@ -1,8 +1,9 @@
 ## Olá, prazer em conhece-lo, meu nome é Christian! 👋 
 
 - 🔭 Atualmente sou estudante de ADS e estou no 5º semestre
-- 🎢 Sou estagiário DevOps na Compass UOL
-- 💻 Pretendo ser um desenvolvedor backend Java
+- 🛠️ Pretendo ser um desenvolvedor backend Java
+- 🎢 Tenho experiência em DevOps pelo estágio na Compass UOL
+- 💻 Atualmente estudando Spring Security e Spring AI
 - 📫 Contate-me no email: christianfernandesprofissional@gmail.com
 
 
