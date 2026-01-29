@@ -1,22 +1,22 @@
 ## Olá, prazer em conhece-lo, meu nome é Christian! 👋 
 
-- 🔭 Atualmente sou estudante de ADS e estou no 5º semestre
-- 🛠️ Pretendo ser um desenvolvedor backend Java
-- 🎢 Tenho experiência em DevOps pelo estágio na Compass UOL
+- 🔭 6º semestre de Análise e desenvolvimento de sistemas na FATEC São Caetano
+- 🛠️ Desenvolvedor Java Backend | Spring
+- 🎢 Experiência em DevSecOps e AWS Cloud Pratictioner
 - 💻 Atualmente estudando Spring Security e Spring AI
 - 📫 Contate-me no email: christianfernandesprofissional@gmail.com
 
 
 
   ## GitHub Performance Metrics :chart_with_upwards_trend:
-
+<!--
 <div align="center">
 
 ### Achievements & Milestones
 [![trophy](https://github-profile-trophy.vercel.app/?username=christianfernandesprofissional&theme=light&margin-w=4&row=1&column=9)](https://github.com/ryo-ma/github-profile-trophy)
 
 </div>
-
+-->
 
 <div align="center">
 
