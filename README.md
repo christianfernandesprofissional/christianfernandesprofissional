@@ -42,64 +42,81 @@
 <tr>
 <td width="30%" align="center"><b>Frontend Development</b></td>
 <td>
-<img src="https://skillicons.dev/icons?i=angular" title="Angular" alt="Angular" width="48" height="48"/>
-<img src="https://skillicons.dev/icons?i=typescript" title="TypeScript" alt="TypeScript" width="48" height="48"/>
-<img src="https://skillicons.dev/icons?i=javascript" title="JavaScript" alt="JavaScript" width="48" height="48"/>
-<img src="https://skillicons.dev/icons?i=tailwind" title="Tailwind CSS" alt="Tailwind CSS" width="48" height="48"/>
-<img src="https://skillicons.dev/icons?i=bootstrap" title="Bootstrap" alt="Bootstrap" width="48" height="48"/>
+<div>
+<img src="https://skillicons.dev/icons?i=angular" width="48"/>
+<img src="https://skillicons.dev/icons?i=typescript" width="48"/>
+<img src="https://skillicons.dev/icons?i=javascript" width="48"/>
+<img src="https://skillicons.dev/icons?i=tailwind" width="48"/>
+<img src="https://skillicons.dev/icons?i=bootstrap" width="48"/>
+</div>
 </td>
 </tr>
+
 <tr>
 <td width="30%" align="center"><b>Backend Development</b></td>
 <td>
-<img src="https://skillicons.dev/icons?i=java&theme=light" title="Java" alt="Java" width="48" height="48"/>
-<img src="https://skillicons.dev/icons?i=spring" title="Spring" alt="Spring" width="48" height="48"/>
-<img src="https://skillicons.dev/icons?i=php" title="PHP" alt="PHP" width="48" height="48"/>
-<img src="https://skillicons.dev/icons?i=c" title="C" alt="C" width="48" height="48"/>
-<img src="https://skillicons.dev/icons?i=kotlin" title="Kotlin" alt="Kotlin" width="48" height="48"/>
+<div>
+<img src="https://skillicons.dev/icons?i=java&theme=light" width="48"/>
+<img src="https://skillicons.dev/icons?i=spring" width="48"/>
+<img src="https://skillicons.dev/icons?i=php" width="48"/>
+<img src="https://skillicons.dev/icons?i=c" width="48"/>
+<img src="https://skillicons.dev/icons?i=kotlin" width="48"/>
+</div>
 </td>
 </tr>
+
 <tr>
 <td width="30%" align="center"><b>Database & BaaS</b></td>
 <td>
-<img src="https://skillicons.dev/icons?i=postgres" title="PostgreSQL" alt="PostgreSQL" width="48" height="48"/>
-<img src="https://skillicons.dev/icons?i=mongodb" title="MongoDB" alt="MongoDB" width="48" height="48"/>
-<img src="https://skillicons.dev/icons?i=mysql" title="MySQL" alt="MySQL" width="48" height="48"/>
-<img src="https://skillicons.dev/icons?i=sqlite" title="SQLite" alt="SQLite" width="48" height="48"/>
+<div>
+<img src="https://skillicons.dev/icons?i=postgres" width="48"/>
+<img src="https://skillicons.dev/icons?i=mongodb" width="48"/>
+<img src="https://skillicons.dev/icons?i=mysql" width="48"/>
+<img src="https://skillicons.dev/icons?i=sqlite" width="48"/>
+</div>
 </td>
 </tr>
+
 <tr>
 <td width="30%" align="center"><b>AI Development Tools</b></td>
 <td>
-<img src="https://skills.syvixor.com/api/icons?i=claudeai" title="Claude AI" alt="Claude AI" width="48" height="48"/>
-<img src="https://www.gstatic.com/lamda/images/gemini_sparkle_v002_d4735304ff6292a690345.svg" title="Google Gemini" alt="Google Gemini" width="48" height="48"/>
-<img src="https://skills.syvixor.com/api/icons?perline=15&i=chatgpt" title="ChatGPT" alt="ChatGPT" width="48" height="48"/>
-<img src="https://skillicons.dev/icons?i=github" title="GitHub Copilot" alt="GitHub Copilot" width="48" height="48"/>
-<img src="https://www.cursor.com/brand/icon.svg" title="Cursor" alt="Cursor" width="48" height="48"/>
+<div>
+<img src="https://skills.syvixor.com/api/icons?i=claudeai" width="48"/>
+<img src="https://www.gstatic.com/lamda/images/gemini_sparkle_v002_d4735304ff6292a690345.svg" width="48"/>
+<img src="https://skills.syvixor.com/api/icons?perline=15&i=chatgpt" width="48"/>
+<img src="https://skillicons.dev/icons?i=github" width="48"/>
+<img src="https://www.cursor.com/brand/icon.svg" width="48"/>
+</div>
 </td>
 </tr>
+
 <tr>
 <td width="30%" align="center"><b>DevOps & Cloud</b></td>
 <td>
-<img src="https://skillicons.dev/icons?i=git" title="Git" alt="Git" width="48" height="48"/>
-<img src="https://skillicons.dev/icons?i=docker" title="Docker" alt="Docker" width="48" height="48"/>
-<img src="https://skillicons.dev/icons?i=githubactions" title="GitHub Actions" alt="GitHub Actions" width="48" height="48"/>
-<img src="https://skillicons.dev/icons?i=kubernetes" title="Kubernetes" alt="Kubernetes" width="48" height="48"/>
-<img src="https://skillicons.dev/icons?i=aws" title="AWS" alt="AWS" width="48" height="48"/>
-<img src="https://skillicons.dev/icons?i=netlify" title="Netlify" alt="Netlify" width="48" height="48"/>
-<img src="https://skillicons.dev/icons?i=nginx" title="Nginx" alt="Nginx" width="48" height="48"/>
+<div>
+<img src="https://skillicons.dev/icons?i=git" width="48"/>
+<img src="https://skillicons.dev/icons?i=docker" width="48"/>
+<img src="https://skillicons.dev/icons?i=githubactions" width="48"/>
+<img src="https://skillicons.dev/icons?i=kubernetes" width="48"/>
+<img src="https://skillicons.dev/icons?i=aws" width="48"/>
+<img src="https://skillicons.dev/icons?i=netlify" width="48"/>
+<img src="https://skillicons.dev/icons?i=nginx" width="48"/>
+</div>
 </td>
 </tr>
+
 <tr>
 <td width="30%" align="center"><b>Tools & Productivity</b></td>
 <td>
-<img src="https://skillicons.dev/icons?i=idea&theme=light" title="Intellij" alt="Intellij" width="48" height="48"/>
-<img src="https://skillicons.dev/icons?i=postman" title="Postman" alt="Postman" width="48" height="48"/>
-<img src="https://skillicons.dev/icons?i=linux&theme=light" title="Linux" alt="Linux" width="48" height="48"/>
-<img src="https://skillicons.dev/icons?i=vscode&theme=light" title="VSCode" alt="VSCode" width="48" height="48"/>
-
+<div>
+<img src="https://skillicons.dev/icons?i=idea&theme=light" width="48"/>
+<img src="https://skillicons.dev/icons?i=postman" width="48"/>
+<img src="https://skillicons.dev/icons?i=linux&theme=light" width="48"/>
+<img src="https://skillicons.dev/icons?i=vscode&theme=light" width="48"/>
+</div>
 </td>
 </tr>
+</table>
 
 <!--
 **christianfernandesprofissional/christianfernandesprofissional** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
