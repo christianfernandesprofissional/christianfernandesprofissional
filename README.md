@@ -1,10 +1,12 @@
-## Olá, prazer em conhece-lo, meu nome é Christian! 👋 
+## Olá, prazer em conhecê-lo! Meu nome é Christian 👋
 
-- 🔭 6º semestre de Análise e desenvolvimento de sistemas na FATEC São Caetano
-- 🛠️ Desenvolvedor Java Backend | Spring
-- 🎢 Experiência em DevSecOps e AWS Cloud Pratictioner
-- 💻 Atualmente estudando Spring Security e Spring AI
-- 📫 Contate-me no email: christianfernandesprofissional@gmail.com
+* 🎓 Formado em Análise e Desenvolvimento de Sistemas 
+* 📚 Cursando Segurança da Informação
+* ☁️ AWS Certified Cloud Practitioner
+* 🔐 Experiência em DevSecOps durante estágio na Compass UOL
+* 💻 Atualmente estudando Spring Security e Spring AI
+* 📫 Contate-me pelo email: [christianfernandesprofissional@gmail.com](mailto:christianfernandesprofissional@gmail.com)
+
 
 
 
@@ -26,14 +28,7 @@
   src="https://github-stats-mu-nine.vercel.app/api/top-langs/?username=christianfernandesprofissional&theme=algolia&hide_border=true&layout=pie&langs_count=8&bg_color=0D1117" alt="Top Languages"/>
 
 
-</div>
 
-<div align="center">
-
-
-<img width="80%" src="https://stats.hyo.dev/api/github-stats-advanced?login=christianfernandesprofissional" alt="GitHub Streak"/>
-
-</div>
 
 
 ## Technology Stack & Tools
@@ -43,9 +38,11 @@
 <td width="30%" align="center"><b>Frontend Development</b></td>
 <td>
 <div>
-<img src="https://skillicons.dev/icons?i=angular" width="48"/>
 <img src="https://skillicons.dev/icons?i=typescript" width="48"/>
 <img src="https://skillicons.dev/icons?i=javascript" width="48"/>
+<img src="https://skillicons.dev/icons?i=react" width="48"/>
+<img src="https://skillicons.dev/icons?i=angular" width="48"/>
+  <img src="https://skillicons.dev/icons?i=nextjs" width="48"/>
 <img src="https://skillicons.dev/icons?i=tailwind" width="48"/>
 <img src="https://skillicons.dev/icons?i=bootstrap" width="48"/>
 </div>
@@ -58,6 +55,7 @@
 <div>
 <img src="https://skillicons.dev/icons?i=java&theme=light" width="48"/>
 <img src="https://skillicons.dev/icons?i=spring" width="48"/>
+<img src="https://skillicons.dev/icons?i=nodejs" width="48"/>
 <img src="https://skillicons.dev/icons?i=php" width="48"/>
 <img src="https://skillicons.dev/icons?i=c" width="48"/>
 <img src="https://skillicons.dev/icons?i=kotlin" width="48"/>
